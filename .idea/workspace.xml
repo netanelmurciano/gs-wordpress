@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0cd0216f-cb28-477c-9656-c3a51109b92b" name="Default Changelist" comment="" />
+    <ignored path="C:\xampp\htdocs\gs-local\wp-content\themes\basic-theme\js/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/basic-theme/src/scss/style.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/basic-theme/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" column="49" lean-forward="true" selection-start-line="27" selection-start-column="49" selection-end-line="27" selection-end-column="49" />
+              <folding>
+                <element signature="n#style#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/basic-theme/page-contact-us.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="15" lean-forward="true" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/basic-theme/page-about.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/basic-theme/src/scss/partials/header.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="6" selection-start-line="4" selection-end-line="4" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/basic-theme/src/scss/partials/variables.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="680">
+              <caret line="40" column="1" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/gulpFile.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="47" column="41" lean-forward="true" selection-start-line="47" selection-start-column="41" selection-end-line="47" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>conne</find>
+      <find>ft</find>
+      <find>cretate</find>
+      <find>clea</find>
+      <find>remoteFolder</find>
+      <find>ftp-deploy-watch</find>
+      <find>localFilesGlob</find>
+      <find>glob</find>
+      <find>vinyl</find>
+      <find>series</find>
+      <find>dest</find>
+      <find>jekyll</find>
+      <find>browserSyncReload</find>
+      <find>concat</find>
+      <find>sms</find>
+      <find>sogo</find>
+      <find>browserSync</find>
+      <find>css</find>
+      <find>transition</find>
+      <find>toolbar</find>
+      <find>color</find>
+      <find>them</find>
+      <find>boo</find>
+      <find>gulp-</find>
+      <find>#f6fafa</find>
+      <find>autoprefixer</find>
+      <find>background-color</find>
+      <find>color-1</find>
+      <find>js-sticky-header</find>
+      <find>header</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\xampp\htdocs\gs-local\wp-content\themes\basic-theme\dist</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/wp-content/themes/new-theme" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/wp-content/themes/new-theme/sass/style.scss" />
+        <option value="$PROJECT_DIR$/wp-content/themes/new-theme/settings.js" />
+        <option value="$PROJECT_DIR$/wp-content/themes/new-theme/package.json" />
+        <option value="$PROJECT_DIR$/wp-content/themes/new-theme/build/css/child-styles.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/new-theme/build/css/child-styles.css/child-styles.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/new-theme/assets/sass/child-styles.scss" />
+        <option value="$PROJECT_DIR$/wp-content/themes/new-theme/gulpFile_BAK.js" />
+        <option value="$PROJECT_DIR$/wp-content/themes/new-theme/gulpFile.js" />
+        <option value="$PROJECT_DIR$/wp-content/themes/new-theme/functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/index.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/twentyseventeen/front-page.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/twentyseventeen/index.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/basic-theme/package.json" />
+        <option value="$PROJECT_DIR$/wp-content/themes/basic-theme/footer.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/new-theme/src/scss/style.scss" />
+        <option value="$PROJECT_DIR$/wp-content/themes/basic-theme/app/functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/basic-theme/app/front-page.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/basic-theme/style.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/basic-theme/src/functions.php" />
+        <option value="&lt;551ebafa-f888-41d4-9745-3e165a6deb63&gt;/wp-content/themes/basic-theme/index.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/basic-theme/src/scss/headers.scss" />
+        <option value="$PROJECT_DIR$/wp-content/themes/basic-theme/front-page.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/basic-theme/src/bootstrap/style.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/basic-theme/index.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/basic-theme/gulpFile.js" />
+        <option value="$PROJECT_DIR$/wp-content/themes/basic-theme/src/scss/partials/ver.scss" />
+        <option value="$PROJECT_DIR$/wp-content/themes/basic-theme/src/scss/partials/_variables.scss" />
+        <option value="$PROJECT_DIR$/wp-content/themes/basic-theme/functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/basic-theme/dist/style/style.min.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/basic-theme/src/scss/partials/fonts.scss" />
+        <option value="$PROJECT_DIR$/wp-content/themes/gulpFile.js" />
+        <option value="$PROJECT_DIR$/wp-content/themes/basic-theme/src/scss/style.scss" />
+        <option value="$PROJECT_DIR$/wp-content/themes/basic-theme/src/scss/partials/variables.scss" />
+        <option value="$PROJECT_DIR$/wp-content/themes/basic-theme/header.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/basic-theme/page-about.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/basic-theme/page-contact-us.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/basic-theme/src/scss/partials/header.scss" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="gs-local" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gs-local" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gs-local" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gs-local" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gs-local" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gs-local" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gs-local" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gs-local" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="basic-theme" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gs-local" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gs-local" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="basic-theme" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gs-local" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gs-local" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="basic-theme" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gs-local" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gs-local" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="basic-theme" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
+              <item name="partials" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="$PROJECT_DIR$/wp-content/themes/node_modules/gulp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/wp-content/themes/node_modules/gulp" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\PhpStorm 2019.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\gs-local\wp-content\themes" />
+      <recent name="C:\xampp\htdocs\gs-local\wp-content\themes\basic-theme" />
+      <recent name="C:\xampp\htdocs\gs-local\wp-content\themes\basic-theme\src\scss" />
+      <recent name="C:\xampp\htdocs\gs-local\wp-content\themes\basic-theme\src" />
+      <recent name="C:\xampp\htdocs\gs-local\wp-content\themes\basic-theme\app" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\gs-local" />
+      <recent name="C:\xampp\htdocs\gs-local\wp-content\themes\basic-theme\src\scss\partials" />
+      <recent name="C:\xampp\htdocs\gs-local\wp-content\themes" />
+      <recent name="C:\xampp\htdocs\gs-local\wp-content\themes\basic-theme" />
+      <recent name="C:\xampp\htdocs\gs-local\wp-content\themes\basic-theme\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Gulp.js.deploy">
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="css" type="js.build_tools.gulp" temporary="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile>$PROJECT_DIR$/wp-content/themes/basic-theme/gulpFile.js</gulpfile>
+      <tasks>
+        <task>css</task>
+      </tasks>
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="deploy" type="js.build_tools.gulp" temporary="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile>$PROJECT_DIR$/wp-content/themes/basic-theme/gulpFile.js</gulpfile>
+      <tasks>
+        <task>deploy</task>
+      </tasks>
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="jekyll" type="js.build_tools.gulp" temporary="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile>$PROJECT_DIR$/wp-content/themes/basic-theme/gulpFile.js</gulpfile>
+      <tasks>
+        <task>jekyll</task>
+      </tasks>
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="watch (1)" type="js.build_tools.gulp" temporary="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile>$PROJECT_DIR$/wp-content/themes/basic-theme/gulpFile.js</gulpfile>
+      <tasks>
+        <task>watch</task>
+      </tasks>
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="watch" type="js.build_tools.gulp" temporary="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile>$PROJECT_DIR$/wp-content/themes/gulpFile.js</gulpfile>
+      <tasks>
+        <task>watch</task>
+      </tasks>
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gulp.js.watch" />
+        <item itemvalue="Gulp.js.watch (1)" />
+        <item itemvalue="Gulp.js.css" />
+        <item itemvalue="Gulp.js.jekyll" />
+        <item itemvalue="Gulp.js.deploy" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0cd0216f-cb28-477c-9656-c3a51109b92b" name="Default Changelist" comment="" />
+      <created>1567163394669</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567163394669</updated>
+      <workItem from="1567163396161" duration="14273000" />
+      <workItem from="1567394645085" duration="2707000" />
+      <workItem from="1567610643566" duration="4576000" />
+      <workItem from="1567794974656" duration="12753000" />
+      <workItem from="1567869739789" duration="129000" />
+      <workItem from="1568354334763" duration="4082000" />
+      <workItem from="1568439297586" duration="8915000" />
+      <workItem from="1568468656953" duration="2063000" />
+      <workItem from="1568470823204" duration="1491000" />
+      <workItem from="1568473660919" duration="1499000" />
+      <workItem from="1568700288117" duration="12493000" />
+      <workItem from="1569818332253" duration="10469000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="75450000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.70679885" visible="true" weight="0.13166311" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Gulp" order="2" sideWeight="0.29320112" side_tool="true" visible="true" weight="0.13166311" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.2340195" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27193934" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32936078" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.23510292" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="TypeScript" order="12" weight="0.32936078" />
+      <window_info anchor="bottom" id="File Transfer" order="13" weight="0.32827735" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.26332623" />
+      <window_info anchor="right" id="Remote Host" order="4" visible="true" weight="0.15938166" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.71692306" visible="true" weight="0.16897655" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Gulp" order="2" sideWeight="0.2830769" side_tool="true" visible="true" weight="0.16897655" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="TypeScript" order="0" />
+      <window_info anchor="bottom" id="File Transfer" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Message" order="2" />
+      <window_info anchor="bottom" id="Find" order="3" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Run" order="4" visible="true" weight="0.29577464" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.23510292" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="right" id="Remote Host" order="0" visible="true" weight="0.32995737" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Database" order="4" weight="0.26332623" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/aria.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="1024" column="22" selection-start-line="1024" selection-start-column="22" selection-end-line="1024" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/new-theme/src/scss/style.scss" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/new-theme/functions.php" />
+    <entry file="file://$PROJECT_DIR$/wp-includes/general-template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-mail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-561" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/basic-theme/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/basic-theme/node_modules/gulp-sass/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="152" selection-start-line="152" selection-end-line="152" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/basic-theme/dist/css/style.min.css" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/basic-theme/dist/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/basic-theme/dist/style.css" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/basic-theme/dist/style.min.css" />
+    <entry file="file://$PROJECT_DIR$/node_modules/vinyl/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/basic-theme/node_modules/vinyl/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1513">
+          <caret line="89" column="47" selection-start-line="89" selection-start-column="47" selection-end-line="89" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@types/node/globals.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="372" column="54" selection-start-line="372" selection-start-column="54" selection-end-line="372" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/gulp-util/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/gulp-ftp/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/js/codemirror/codemirror.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="23" column="14778" selection-start-line="23" selection-start-column="14778" selection-end-line="23" selection-end-column="14778" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/basic-theme/gulpFile_BAK.js" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/basic-theme/gulpFile_BAK12.js" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/basic-theme/dist/style/headers.min.css" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/basic-theme/src/scss/headers.scss" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/basic-theme/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/structural.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="165" column="16" selection-start-line="165" selection-start-column="16" selection-end-line="165" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/basic-theme/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/SimplePie/Cache/DB.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-102">
+          <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/basic-theme/src/bootstrap/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="10140" selection-start-line="10140" selection-end-line="10140" />
+          <folding>
+            <element signature="e#36132#36366#2" expanded="true" />
+            <element signature="e#37269#37422#1" expanded="true" />
+            <element signature="e#37463#37697#1" expanded="true" />
+            <element signature="e#41102#41378#2" expanded="true" />
+            <element signature="e#42309#42462#1" expanded="true" />
+            <element signature="e#42503#42779#1" expanded="true" />
+            <element signature="e#77854#78041#2" expanded="true" />
+            <element signature="e#78300#78436#2" expanded="true" />
+            <element signature="e#78891#79024#2" expanded="true" />
+            <element signature="e#80756#80909#1" expanded="true" />
+            <element signature="e#96255#96485#2" expanded="true" />
+            <element signature="e#97502#97738#2" expanded="true" />
+            <element signature="e#134954#135131#2" expanded="true" />
+            <element signature="e#135187#135364#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/basic-theme/front-page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/basic-theme/src/scss/partials/mixins.scss" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/node_modules/d/test/lazy.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/basic-theme/src/scss/partials/ver.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/scss/_functions.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="75" column="32" lean-forward="true" selection-start-line="75" selection-start-column="32" selection-end-line="75" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/d/test/lazy.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="6" lean-forward="true" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/basic-theme/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/basic-theme/dist/style/style.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="4753" selection-start-line="7" selection-start-column="4750" selection-end-line="7" selection-end-column="4766" />
+          <folding>
+            <element signature="e#24088#24336#2" expanded="true" />
+            <element signature="e#25112#25279#1" expanded="true" />
+            <element signature="e#25319#25567#1" expanded="true" />
+            <element signature="e#28523#28813#2" expanded="true" />
+            <element signature="e#29617#29784#1" expanded="true" />
+            <element signature="e#29824#30114#1" expanded="true" />
+            <element signature="e#67481#67682#2" expanded="true" />
+            <element signature="e#67909#68059#2" expanded="true" />
+            <element signature="e#68458#68605#2" expanded="true" />
+            <element signature="e#69739#69906#1" expanded="true" />
+            <element signature="e#80568#80815#2" expanded="true" />
+            <element signature="e#81646#81896#2" expanded="true" />
+            <element signature="e#113736#113925#2" expanded="true" />
+            <element signature="e#113971#114161#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/basic-theme/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/node_modules/bootstrap/scss/_functions.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="71" column="25" selection-start-line="71" selection-start-column="25" selection-end-line="71" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/basic-theme/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/basic-theme/src/scss/partials/fonts.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/node_modules/bootstrap/scss/bootstrap.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="20" column="19" lean-forward="true" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/basic-theme/src/scss/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/gulpFile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="47" column="41" lean-forward="true" selection-start-line="47" selection-start-column="41" selection-end-line="47" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/basic-theme/page-about.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-admin/network/site-settings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="119" column="8" selection-start-line="119" selection-start-column="8" selection-end-line="119" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/basic-theme/page-contact-us.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="15" lean-forward="true" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/basic-theme/src/scss/partials/variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="1" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/basic-theme/src/scss/partials/header.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="6" selection-start-line="4" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/basic-theme/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="49" lean-forward="true" selection-start-line="27" selection-start-column="49" selection-end-line="27" selection-end-column="49" />
+          <folding>
+            <element signature="n#style#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
